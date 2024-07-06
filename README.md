@@ -3,7 +3,8 @@
 O podcast fala sobre Power Bi e da dicas de novidades do Power Bi no mercado tecnológico.
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA Generativas.
 
-
+## Baixe agora
+https://github.com/EstiloNaka/podcast_powerbi/blob/main/outputs/202407061129.mp4
 
 ## 💻 Tecnologias utilizadas no projeto
 
